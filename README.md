@@ -1,2 +1,2 @@
 # RockPaperScissors
-![image](https://user-images.githubusercontent.com/61148588/215145788-5a117368-0115-4eda-911a-e290eb0836a6.png)
+![image](https://user-images.githubusercontent.com/61148588/215146120-f04169b5-6648-48f8-837f-36bcb6228044.png)
